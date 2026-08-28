@@ -1,8 +1,8 @@
-# 🏏 Indian Women's Cricket Performance Dashboard
+# 🏏 Women's Cricket Performance Dashboard
 
 ## 📊 Project Overview
 
-The **Indian Women's Cricket Performance Dashboard** is an interactive **Power BI dashboard** designed to analyze and visualize the performance of Indian women's cricket players.
+The **Women's Cricket Performance Dashboard** is an interactive **Power BI dashboard** designed to analyze and visualize the performance of women's cricket players.
 
 The dashboard provides insights into player performance based on **runs, wickets, roles, batting styles, bowling styles, and states**. It helps users quickly identify top-performing players and understand overall player distribution.
 
@@ -10,7 +10,7 @@ The dashboard provides insights into player performance based on **runs, wickets
 
 ## 🎯 Objectives
 
-- Analyze the overall performance of Indian women's cricket players.
+- Analyze the overall performance of women's cricket players.
 - Identify players with the highest number of runs and wickets.
 - Compare players based on their cricketing roles.
 - Analyze the distribution of players by batting style.
@@ -120,7 +120,7 @@ The data preparation process included operations such as:
 
 ## 📊 Dashboard Preview
 
-![Indian Women's Cricket Performance Dashboard](womens_cricketer_img.jpeg)
+![Women's Cricket Performance Dashboard](womens_cricketer_img.jpeg)
 ---
 
 ## 📂 Project Structure
@@ -129,8 +129,8 @@ The data preparation process included operations such as:
 Indian-Womens-Cricket-Performance-Dashboard/
 │
 ├── README.md
-├── Indian_Womens_Cricket_Dataset.csv
-├── Indian_Womens_Cricket_Dashboard.pbix
+├── Womens_Cricket_Dataset.csv
+├── Womens_Cricket_Dashboard.pbix
 └── womencricketer_dashboard.png
 
 🖼️ Dashboard Preview
