@@ -120,8 +120,7 @@ The data preparation process included operations such as:
 
 ## 📊 Dashboard Preview
 
-![Indian Women's Cricket Performance Dashboard](womencricketer_dashboard.png)
-
+![Indian Women's Cricket Performance Dashboard]()
 ---
 
 ## 📂 Project Structure
