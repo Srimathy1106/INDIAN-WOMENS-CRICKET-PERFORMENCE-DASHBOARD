@@ -126,7 +126,7 @@ The data preparation process included operations such as:
 ## 📂 Project Structure
 
 ```text
-Indian-Womens-Cricket-Performance-Dashboard/
+Womens-Cricket-Performance-Dashboard/
 │
 ├── README.md
 ├── Womens_Cricket_Dataset.csv
